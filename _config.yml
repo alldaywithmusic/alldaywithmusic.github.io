@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "S__11673614.jpg"
+  avatar           : "/images/S__11673614.jpg"
   name             : "Praewpan Promsurin"
   pronouns         : # example: "she/her"  
   bio              : "Geoscience Student"
